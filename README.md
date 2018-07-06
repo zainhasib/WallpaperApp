@@ -1,5 +1,5 @@
 # WallpaperApp
-Androi Wallpaper Application
+Android Wallpaper Application
 
 Uses : 
 1) Android
